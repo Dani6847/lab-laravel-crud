@@ -17,3 +17,4 @@ Descripci
 Instalacion de Laravel y Composer, para la creacion de un servidor
 Paso para leventar el proyecto
 crear un archivo laravel y ejecutarlo
+Nota: PR del lab 5
